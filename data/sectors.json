@@ -1,0 +1,1532 @@
+{
+  "sectors": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "tech",
+        "technology",
+        "software",
+        "hardware",
+        "semiconductors",
+        "cloud",
+        "ai",
+        "artificial intelligence"
+      ],
+      "risk_level": "high",
+      "stocks": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "TSLA",
+          "name": "Tesla Inc.",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "AMZN",
+          "name": "Amazon.com Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "INTC",
+          "name": "Intel Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "CRM",
+          "name": "Salesforce Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ORCL",
+          "name": "Oracle Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ADBE",
+          "name": "Adobe Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CSCO",
+          "name": "Cisco Systems Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "IBM",
+          "name": "International Business Machines",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "NOW",
+          "name": "ServiceNow Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "TXN",
+          "name": "Texas Instruments",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "AVGO",
+          "name": "Broadcom Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "XLK",
+          "name": "Technology Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VGT",
+          "name": "Vanguard Information Technology ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "keywords": [
+        "healthcare",
+        "health",
+        "pharmaceuticals",
+        "pharma",
+        "biotech",
+        "biotechnology",
+        "medical",
+        "drugs"
+      ],
+      "risk_level": "high",
+      "stocks": [
+        {
+          "ticker": "JNJ",
+          "name": "Johnson & Johnson",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "UNH",
+          "name": "UnitedHealth Group",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PFE",
+          "name": "Pfizer Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ABBV",
+          "name": "AbbVie Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "TMO",
+          "name": "Thermo Fisher Scientific",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ABT",
+          "name": "Abbott Laboratories",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "DHR",
+          "name": "Danaher Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "LLY",
+          "name": "Eli Lilly and Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "BMY",
+          "name": "Bristol-Myers Squibb",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "AMGN",
+          "name": "Amgen Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CVS",
+          "name": "CVS Health Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "CI",
+          "name": "Cigna Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "HUM",
+          "name": "Humana Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ISRG",
+          "name": "Intuitive Surgical Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "ZTS",
+          "name": "Zoetis Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SYK",
+          "name": "Stryker Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "BIIB",
+          "name": "Biogen Inc.",
+          "market_cap": "medium",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "GILD",
+          "name": "Gilead Sciences Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "XLV",
+          "name": "Health Care Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VHT",
+          "name": "Vanguard Health Care ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "keywords": [
+        "financial",
+        "finance",
+        "banking",
+        "banks",
+        "insurance",
+        "investment",
+        "financial services"
+      ],
+      "risk_level": "medium",
+      "stocks": [
+        {
+          "ticker": "JPM",
+          "name": "JPMorgan Chase & Co.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "BAC",
+          "name": "Bank of America Corp.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo & Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "GS",
+          "name": "The Goldman Sachs Group Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "BLK",
+          "name": "BlackRock Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SCHW",
+          "name": "Charles Schwab Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "BX",
+          "name": "Blackstone Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CME",
+          "name": "CME Group Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "COF",
+          "name": "Capital One Financial",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "AXP",
+          "name": "American Express Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "USB",
+          "name": "U.S. Bancorp",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "TFC",
+          "name": "Truist Financial Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "PNC",
+          "name": "PNC Financial Services",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "AIG",
+          "name": "American International Group",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "AFL",
+          "name": "Aflac Incorporated",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PRU",
+          "name": "Prudential Financial Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "XLF",
+          "name": "Financial Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VFH",
+          "name": "Vanguard Financials ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Discretionary",
+      "keywords": [
+        "consumer",
+        "retail",
+        "consumer discretionary",
+        "consumer goods",
+        "discretionary",
+        "retailers"
+      ],
+      "risk_level": "medium",
+      "stocks": [
+        {
+          "ticker": "AMZN",
+          "name": "Amazon.com Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "TSLA",
+          "name": "Tesla Inc.",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "HD",
+          "name": "The Home Depot Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "MCD",
+          "name": "McDonald's Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "NKE",
+          "name": "Nike Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "SBUX",
+          "name": "Starbucks Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "LOW",
+          "name": "Lowe's Companies Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "TGT",
+          "name": "Target Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "TJX",
+          "name": "TJX Companies Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "BKNG",
+          "name": "Booking Holdings Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "MAR",
+          "name": "Marriott International Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CMG",
+          "name": "Chipotle Mexican Grill Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ORLY",
+          "name": "O'Reilly Automotive Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "AZO",
+          "name": "AutoZone Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "GM",
+          "name": "General Motors Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "F",
+          "name": "Ford Motor Company",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "ULTA",
+          "name": "Ulta Beauty Inc.",
+          "market_cap": "medium",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ETSY",
+          "name": "Etsy Inc.",
+          "market_cap": "medium",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "XLY",
+          "name": "Consumer Discretionary Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VCR",
+          "name": "Vanguard Consumer Discretionary ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Staples",
+      "keywords": [
+        "consumer staples",
+        "staples",
+        "food",
+        "beverages",
+        "household",
+        "consumer defensive"
+      ],
+      "risk_level": "low",
+      "stocks": [
+        {
+          "ticker": "PG",
+          "name": "Procter & Gamble Company",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "KO",
+          "name": "The Coca-Cola Company",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PEP",
+          "name": "PepsiCo Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "WMT",
+          "name": "Walmart Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "COST",
+          "name": "Costco Wholesale Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "CL",
+          "name": "Colgate-Palmolive Company",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PM",
+          "name": "Philip Morris International Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "MO",
+          "name": "Altria Group Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "MDLZ",
+          "name": "Mondelez International Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "GIS",
+          "name": "General Mills Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "KHC",
+          "name": "The Kraft Heinz Company",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "HRL",
+          "name": "Hormel Foods Corporation",
+          "market_cap": "medium",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SJM",
+          "name": "The J.M. Smucker Company",
+          "market_cap": "medium",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "CAG",
+          "name": "Conagra Brands Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "TSN",
+          "name": "Tyson Foods Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "KR",
+          "name": "The Kroger Co.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "WBA",
+          "name": "Walgreens Boots Alliance Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "DG",
+          "name": "Dollar General Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "XLP",
+          "name": "Consumer Staples Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "VDC",
+          "name": "Vanguard Consumer Staples ETF",
+          "market_cap": "etf",
+          "industry_risk": "low"
+        }
+      ]
+    },
+    {
+      "name": "Energy",
+      "keywords": [
+        "energy",
+        "oil",
+        "gas",
+        "petroleum",
+        "renewable energy",
+        "solar",
+        "wind"
+      ],
+      "risk_level": "high",
+      "stocks": [
+        {
+          "ticker": "XOM",
+          "name": "Exxon Mobil Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "CVX",
+          "name": "Chevron Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "SLB",
+          "name": "Schlumberger Limited",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "COP",
+          "name": "ConocoPhillips",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "EOG",
+          "name": "EOG Resources Inc.",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "PSX",
+          "name": "Phillips 66",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "VLO",
+          "name": "Valero Energy Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "OXY",
+          "name": "Occidental Petroleum Corporation",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "HES",
+          "name": "Hess Corporation",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "DVN",
+          "name": "Devon Energy Corporation",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "FANG",
+          "name": "Diamondback Energy Inc.",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "MRO",
+          "name": "Marathon Oil Corporation",
+          "market_cap": "medium",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "ENPH",
+          "name": "Enphase Energy Inc.",
+          "market_cap": "medium",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "FSLR",
+          "name": "First Solar Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "NEE",
+          "name": "NextEra Energy Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "DUK",
+          "name": "Duke Energy Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SO",
+          "name": "The Southern Company",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "XLE",
+          "name": "Energy Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "VDE",
+          "name": "Vanguard Energy ETF",
+          "market_cap": "etf",
+          "industry_risk": "high"
+        }
+      ]
+    },
+    {
+      "name": "Industrials",
+      "keywords": [
+        "industrial",
+        "industrials",
+        "manufacturing",
+        "aerospace",
+        "defense",
+        "machinery"
+      ],
+      "risk_level": "medium",
+      "stocks": [
+        {
+          "ticker": "BA",
+          "name": "The Boeing Company",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "HON",
+          "name": "Honeywell International Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "UPS",
+          "name": "United Parcel Service Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "RTX",
+          "name": "RTX Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CAT",
+          "name": "Caterpillar Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "DE",
+          "name": "Deere & Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "GE",
+          "name": "General Electric Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "EMR",
+          "name": "Emerson Electric Co.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ETN",
+          "name": "Eaton Corporation plc",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ITW",
+          "name": "Illinois Tool Works Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "LMT",
+          "name": "Lockheed Martin Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "NOC",
+          "name": "Northrop Grumman Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "GD",
+          "name": "General Dynamics Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PH",
+          "name": "Parker-Hannifin Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ROK",
+          "name": "Rockwell Automation Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "FTV",
+          "name": "Fortive Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CMI",
+          "name": "Cummins Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "DOV",
+          "name": "Dover Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "XLI",
+          "name": "Industrial Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VIS",
+          "name": "Vanguard Industrials ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Materials",
+      "keywords": [
+        "materials",
+        "chemicals",
+        "mining",
+        "metals",
+        "steel",
+        "copper",
+        "gold",
+        "silver"
+      ],
+      "risk_level": "high",
+      "stocks": [
+        {
+          "ticker": "LIN",
+          "name": "Linde plc",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "APD",
+          "name": "Air Products and Chemicals Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ECL",
+          "name": "Ecolab Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SHW",
+          "name": "The Sherwin-Williams Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "PPG",
+          "name": "PPG Industries Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "NEM",
+          "name": "Newmont Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "VALE",
+          "name": "Vale S.A.",
+          "market_cap": "large",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "AA",
+          "name": "Alcoa Corporation",
+          "market_cap": "medium",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "X",
+          "name": "United States Steel Corporation",
+          "market_cap": "medium",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "NUE",
+          "name": "Nucor Corporation",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "CLF",
+          "name": "Cleveland-Cliffs Inc.",
+          "market_cap": "medium",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "DOW",
+          "name": "Dow Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "DD",
+          "name": "DuPont de Nemours Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "LYB",
+          "name": "LyondellBasell Industries N.V.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "NTR",
+          "name": "Nutrien Ltd.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "MOS",
+          "name": "The Mosaic Company",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "CF",
+          "name": "CF Industries Holdings Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "XLB",
+          "name": "Materials Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "VAW",
+          "name": "Vanguard Materials ETF",
+          "market_cap": "etf",
+          "industry_risk": "high"
+        }
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "keywords": [
+        "real estate",
+        "reit",
+        "reits",
+        "realty",
+        "property",
+        "housing"
+      ],
+      "risk_level": "medium",
+      "stocks": [
+        {
+          "ticker": "AMT",
+          "name": "American Tower Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "PLD",
+          "name": "Prologis Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "EQIX",
+          "name": "Equinix Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PSA",
+          "name": "Public Storage",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "WELL",
+          "name": "Welltower Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "SPG",
+          "name": "Simon Property Group Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "DLR",
+          "name": "Digital Realty Trust Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VICI",
+          "name": "VICI Properties Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "O",
+          "name": "Realty Income Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "EXPI",
+          "name": "eXp World Holdings Inc.",
+          "market_cap": "medium",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "INVH",
+          "name": "Invitation Homes Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "AVB",
+          "name": "AvalonBay Communities Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "EQR",
+          "name": "Equity Residential",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CPT",
+          "name": "Camden Property Trust",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "UDR",
+          "name": "UDR Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "MAA",
+          "name": "Mid-America Apartment Communities Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "ESS",
+          "name": "Essex Property Trust Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "SUI",
+          "name": "Sun Communities Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VNQ",
+          "name": "Vanguard Real Estate ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "SCHH",
+          "name": "Schwab U.S. REIT ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "keywords": [
+        "utilities",
+        "utility",
+        "power",
+        "electric",
+        "water",
+        "gas utility"
+      ],
+      "risk_level": "low",
+      "stocks": [
+        {
+          "ticker": "NEE",
+          "name": "NextEra Energy Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "DUK",
+          "name": "Duke Energy Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SO",
+          "name": "The Southern Company",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "D",
+          "name": "Dominion Energy Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "AEP",
+          "name": "American Electric Power Company Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "SRE",
+          "name": "Sempra Energy",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "EXC",
+          "name": "Exelon Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "XEL",
+          "name": "Xcel Energy Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "WEC",
+          "name": "WEC Energy Group Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ES",
+          "name": "Eversource Energy",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "PEG",
+          "name": "Public Service Enterprise Group",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ED",
+          "name": "Consolidated Edison Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ETR",
+          "name": "Entergy Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "EIX",
+          "name": "Edison International",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "FE",
+          "name": "FirstEnergy Corp.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "AEE",
+          "name": "Ameren Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "ATO",
+          "name": "Atmos Energy Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "NI",
+          "name": "NiSource Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "XLU",
+          "name": "Utilities Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "VPU",
+          "name": "Vanguard Utilities ETF",
+          "market_cap": "etf",
+          "industry_risk": "low"
+        }
+      ]
+    },
+    {
+      "name": "Communication Services",
+      "keywords": [
+        "communication",
+        "telecom",
+        "telecommunications",
+        "media",
+        "entertainment",
+        "streaming"
+      ],
+      "risk_level": "medium",
+      "stocks": [
+        {
+          "ticker": "META",
+          "name": "Meta Platforms Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "NFLX",
+          "name": "Netflix Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "DIS",
+          "name": "The Walt Disney Company",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VZ",
+          "name": "Verizon Communications Inc.",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "T",
+          "name": "AT&T Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "CMCSA",
+          "name": "Comcast Corporation",
+          "market_cap": "large",
+          "industry_risk": "low"
+        },
+        {
+          "ticker": "CHTR",
+          "name": "Charter Communications Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "EA",
+          "name": "Electronic Arts Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "TTWO",
+          "name": "Take-Two Interactive Software Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "ATVI",
+          "name": "Activision Blizzard Inc.",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "FOX",
+          "name": "Fox Corporation",
+          "market_cap": "large",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "PARA",
+          "name": "Paramount Global",
+          "market_cap": "medium",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "WBD",
+          "name": "Warner Bros. Discovery Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "LYV",
+          "name": "Live Nation Entertainment Inc.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "ROKU",
+          "name": "Roku Inc.",
+          "market_cap": "medium",
+          "industry_risk": "very_high"
+        },
+        {
+          "ticker": "SPOT",
+          "name": "Spotify Technology S.A.",
+          "market_cap": "large",
+          "industry_risk": "high"
+        },
+        {
+          "ticker": "SIRI",
+          "name": "Sirius XM Holdings Inc.",
+          "market_cap": "medium",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "XLC",
+          "name": "Communication Services Select Sector SPDR Fund",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        },
+        {
+          "ticker": "VOX",
+          "name": "Vanguard Communication Services ETF",
+          "market_cap": "etf",
+          "industry_risk": "medium"
+        }
+      ]
+    }
+  ],
+  "risk_levels": {
+    "very_low": {
+      "score": 1,
+      "description": "Very stable, defensive"
+    },
+    "low": {
+      "score": 2,
+      "description": "Stable, low volatility"
+    },
+    "medium": {
+      "score": 3,
+      "description": "Moderate risk and return"
+    },
+    "high": {
+      "score": 4,
+      "description": "Higher volatility, growth potential"
+    },
+    "very_high": {
+      "score": 5,
+      "description": "Very volatile, speculative"
+    }
+  },
+  "market_cap_categories": {
+    "small": {
+      "description": "Small cap stocks (< $2B market cap)",
+      "risk_multiplier": 1.3
+    },
+    "medium": {
+      "description": "Mid cap stocks ($2B - $10B market cap)",
+      "risk_multiplier": 1.1
+    },
+    "large": {
+      "description": "Large cap stocks (> $10B market cap)",
+      "risk_multiplier": 1.0
+    },
+    "etf": {
+      "description": "Exchange Traded Fund",
+      "risk_multiplier": 0.9
+    }
+  }
+}
