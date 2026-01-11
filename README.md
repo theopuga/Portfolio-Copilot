@@ -247,11 +247,4 @@ pytest
 
 The backend follows PEP 8 Python style guidelines. The frontend uses ESLint and Prettier.
 
-## License
-
-[Add your license here]
-
-## Support
-
-For issues and questions, please [create an issue](link-to-issues) or contact [support contact].
 
